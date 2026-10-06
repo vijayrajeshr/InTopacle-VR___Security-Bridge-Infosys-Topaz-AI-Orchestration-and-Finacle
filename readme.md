@@ -1,6 +1,6 @@
 # InTopacle-VR: Zero-Trust Gateway for Infosys Topaz & Finacle
 
-**InTopacle-VR** (built on the **FinGuard** reference architecture) is an open-source, orchestrator-agnostic zero-trust gateway designed to safely connect generative AI orchestrators (such as **Infosys Topaz**) with transaction-critical core banking platforms (such as **Infosys Finacle**).
+**InTopacle-VR** (built on the **FinGuard** reference architecture) is an orchestrator-agnostic zero-trust gateway designed to safely connect generative AI orchestrators (such as **Infosys Topaz**) with transaction-critical core banking platforms (such as **Infosys Finacle**).
 
 ---
 
