@@ -4,6 +4,9 @@
 
 ---
 
+
+
+
 ## 🚨 The Core Problem: Silent Mis-Binding
 
 Integrating fluid, probabilistic language models with rigid, transaction-critical core banking microservices introduces a critical structural vulnerability: **entity parameter confusion**. 
